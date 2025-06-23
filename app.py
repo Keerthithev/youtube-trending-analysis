@@ -143,6 +143,6 @@ st.markdown("""
 
 # Footer
 st.markdown("---")
-st.markdown("Made by **Keerthi Dev** | Data Science Student | Powered by Streamlit & Seaborn")
+st.markdown("Made by **Keerthigan Thevarasa** | Data Science Student | Powered by Streamlit & Seaborn")
 
 
