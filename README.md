@@ -46,18 +46,8 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run app.py
 
-## 📸 Screenshots
 
 
-
-### ▶️ Streamlit Dashboard
-![Dashboard](https://github.com/Keerthithev/youtube-trending-analysis/raw/main/images/dashboard_home.png)
-
-### 📊 Top 10 Most Viewed Videos
-![Top 10 Most Viewed Videos](https://github.com/Keerthithev/youtube-trending-analysis/raw/main/images/top_10_most_viewed_videos.png)
-
-### 📒 Jupyter Notebook Preview
-![Jupyter Notebook](https://github.com/Keerthithev/youtube-trending-analysis/raw/main/images/jupyter_notebook.png)
 
 
 
